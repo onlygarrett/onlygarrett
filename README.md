@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on a Scraper app
+- 🔭 I’m currently working on a Scraper app and a Riot Client automation app 
 - 🌱 I’m currently learning diving more into Java and React
 - 📫 How to reach me: rumschik.2@gmail.com
 - 😄 Pronouns: he/him
