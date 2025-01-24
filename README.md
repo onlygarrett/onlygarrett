@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on a Scraper app and a Riot Client automation app 
-- 🌱 I’m currently learning diving more into Java and React
+- 🔭 I am currently freelancing as a Full-stack Developer but am open to a full-time position.
 - 📫 How to reach me: rumschik.2@gmail.com
 - 😄 Pronouns: he/him
 
