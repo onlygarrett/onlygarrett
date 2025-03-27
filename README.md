@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
   
-<a href="https://app.daily.dev/garrettrumschik"><img src="./devcard.png" width="652" alt="Garrett Rumschik's Dev Card"/></a>
+<a href="https://app.daily.dev/garrettrumschik"><img src="./devcard.png" width="200" alt="Garrett Rumschik's Dev Card"/></a>
