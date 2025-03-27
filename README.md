@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I am currently freelancing as a Full-stack Developer but am open to a full-time position.
+- 🔭 I am currently working as a Security Engineer IV.
 - 📫 How to reach me: rumschik.2@gmail.com
 - 😄 Pronouns: he/him
 
