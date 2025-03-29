@@ -1,6 +1,6 @@
 ### Hi there, my name is Garrett Rumschik
 
-## Software Engineer
+## Full-Stack Software Engineer
 
 - 🔭 Currently learning a little React frontend, Go, and microservices
 - 📥 Working as a Security Engineer IV @NovaCoast
