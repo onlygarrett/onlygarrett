@@ -1,14 +1,25 @@
-### Hi there 👋
+### Hi there, my name is Garrett Rumschik
 
-<!--
-**onlygarrett/onlygarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer
 
-Here are some ideas to get you started:
+- 🔭 Currently learning a little React frontend, Go, and microservices
+- 📥 Working as a Security Engineer IV @NovaCoast
+- 📚 Ohio State University Alumni
+- 💥 My hobbies include Video Games (obviously), strength training, ricing, and traveling
+---
 
--->
-- 🔭 I am currently working as a Security Engineer IV.
-- 📫 How to reach me: rumschik.2@gmail.com
-- 😄 Pronouns: he/him
+### <div align="center"> Connect with me! </div>
 
+<p align="center">
+  <a href="https://jeedev.rip">
+  <img align="center" alt="Garrett | LinkedIn" width="70px" src="./favicon.ico" />
+  </a>
   
-<a href="https://app.daily.dev/garrettrumschik"><img src="./devcard.png" width="200" alt="Garrett Rumschik's Dev Card"/></a>
+  <a href="https://www.linkedin.com/in/garrett-rumschik/">
+  <img align="center" alt="garrett | LinkedIn" width="70px" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" />
+  </a>
+  
+  <a href="https://bsky.app/profile/onlygarrett.bsky.social">
+  <img align="center" alt="garrett | Bluesky" width="70px" src="https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=000000" />
+  </a>
+</p>
