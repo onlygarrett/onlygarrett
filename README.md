@@ -2,10 +2,10 @@
 
 ## Full-Stack Software Engineer
 
-- 🔭 Currently learning a little React frontend, Go, and microservices
+- 🔭 Currently learning interests: learning a little Rust. Golang as well but I am decently proficient meow 
 - 📥 Working as a Security Engineer IV @NovaCoast
 - 📚 Ohio State University Alumni
-- 💥 My hobbies include Video Games (obviously), strength training, ricing, and traveling
+- 💥 My hobbies include Video Games (obviously), strength training, record collecting, and exploring Chicago
 ---
 
 ### <div align="center"> Connect with me! </div>
@@ -23,3 +23,13 @@
   <img align="center" alt="garrett | Bluesky" width="70px" src="https://img.icons8.com/?size=100&id=3ovMFy5JDSWq&format=png&color=000000" />
   </a>
 </p>
+<br/><br/>
+
+
+<a align="center">
+  <p align="center">
+  🐶 My whole world
+<br/><br/>
+  <img align="center" alt="My Love" width="200px" src="./ian2.jpg" />
+  </p>
+</a>
