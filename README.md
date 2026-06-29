@@ -2,7 +2,7 @@
 
 ## Full-Stack Software Engineer
 
-- 🔭 Currently learning interests: learning a little Rust. Golang as well but I am decently proficient meow 
+- 🔭 Currently learning interests: learning a little Rust. Golang as well but I am decently proficient atp 
 - 📥 Working as a Security Engineer IV @NovaCoast
 - 📚 Ohio State University Alumni
 - 💥 My hobbies include Video Games (obviously), strength training, record collecting, and exploring Chicago
